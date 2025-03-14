@@ -7,7 +7,9 @@ This project analyzes simulated clinical trial data modeled after the RESCUE Stu
 🔍 **Key Insights from SQL Queries:**
 
 Demographics & Enrollment Trends: Age, sex, and race distribution of participants.
+
 Completion Status & Dropout Reasons: Completion rates by treatment group, sex, and location.
+
 Treatment Efficacy: Percentage change in inflammatory biomarkers (hsCRP, fibrinogen, SAA).
 Cardiovascular Impact: Effects on ECG readings and blood pressure.
 Adverse Events: Distribution of reported adverse and severe adverse events.
