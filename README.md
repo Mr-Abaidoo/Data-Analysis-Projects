@@ -1,4 +1,4 @@
-This repository showcases my data analysis skills through various projects using data tools.
+This repository showcases my data analysis skills through projects using data tools.
 
 📌 **Project 1: Clinical Trial Analysis (Ziltivekimab - NCT03926117)**
 
