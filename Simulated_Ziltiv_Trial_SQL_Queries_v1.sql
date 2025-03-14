@@ -3,10 +3,11 @@
 -----------------------------------------------------------------------------------
 
 -- This project presents SQL queries designed to analyze clinical trial data based on the RESCUE Study (ClinicalTrials.gov ID: NCT03926117)
--- The study investigated IL-6 inhibition with Ziltivekimab for patients with cardiovascular risk and elevated inflammation markers.
+-- The study investigated IL-6 inhibition with Ziltivekimab for patients with cardiovascular risk and elevated inflammation markers
 -- The dataset was simulated to reflect key trial parameters
 -- The SQL queries in this repository demonstrate data processing, analysis, and reporting skills
 -- It covers joins, aggregations, window functions and case statements
+-- The project was performed in MS SQL Server
 
 -----------------------------------------------------------------------------------
 -- #1 Count participants by treatment group
