@@ -1,6 +1,7 @@
 This repository showcases my data analysis skills through various projects using data tools.
 
 📌 **Project 1: Clinical Trial Analysis (Ziltivekimab - NCT03926117)**
+
 This project analyzes simulated clinical trial data modeled after the RESCUE Study (ClinicalTrials.gov ID: NCT03926117), which investigated IL-6 inhibition with ziltivekimab in patients with cardiovascular risks. 
 
 🔍 **Key Insights from SQL Queries:**
