@@ -11,7 +11,9 @@ Demographics & Enrollment Trends: Age, sex, and race distribution of participant
 Completion Status & Dropout Reasons: Completion rates by treatment group, sex, and location.
 
 Treatment Efficacy: Percentage change in inflammatory biomarkers (hsCRP, fibrinogen, SAA).
+
 Cardiovascular Impact: Effects on ECG readings and blood pressure.
+
 Adverse Events: Distribution of reported adverse and severe adverse events.
 
 📂 **Files**
